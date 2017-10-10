@@ -38,7 +38,9 @@ print_words() and print_top().
 """
 
 import sys
+import nltk as nt
 
+def 
 
 # +++your code here+++
 # Define print_words(filename) and print_top(filename) functions.
